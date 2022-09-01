@@ -1,0 +1,13 @@
+body{
+    background-color: salmon;
+    font-style: italic;
+    font-weight: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+#kibandaski{
+    text-align: center;
+   font-style: italic;
+}
+#yummy{
+    text-align: center;
+}
