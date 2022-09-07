@@ -1,13 +1,37 @@
 body{
     background-color: salmon;
     font-style: italic;
-    font-weight: 200;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
-#kibandaski{
+h1{
     text-align: center;
-   font-style: italic;
+    font-size: xxx-large;
+    
 }
-#yummy{
+#hallo{
     text-align: center;
+    font-size: large;
 }
+img{
+    min-width: 8cm;
+    max-height: 4.7cm;
+}
+#menu{
+    font-size: larger;
+    font-style: italic;
+
+}
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+
